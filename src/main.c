@@ -1,3 +1,8 @@
+
+// handles the cli 
+// checks the args
+
+
 #include <stdio.h>
 #include <string.h>
 #include "compressor.h"
