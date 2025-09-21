@@ -1,3 +1,9 @@
+
+// the rle algo
+// compress_file() reads the input file, compresses sequesces and writes count + char pairs
+// decompress_file() reads the count + char pairs and recontructs the og file
+
+
 #include "compressor.h"
 #include <stdio.h>
 
